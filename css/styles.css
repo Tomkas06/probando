@@ -1,8 +1,26 @@
-p{
-    color: red;
+.cartel{
+    text-align: center;
 }
 
-h1{
-    font-weight: 900;
-    text-decoration: line-through;
+.seccion{
+    padding: 40px 40px 80px 40px;
+}
+
+.objeto-bootstrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seccion .carousel{
+    max-width: 800px;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+
+
+footer{
+    background-color: blue;
 }
